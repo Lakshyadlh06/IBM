@@ -7,7 +7,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    color: white;
+    color: blue;
 }
 /* Container */
 .container {
@@ -52,7 +52,9 @@ header nav ul li a:hover {
     position: relative;
     display: inline-block;
 }
-
+h2,p {
+color: white;
+}
 .dropdown-content {
     display: none;
     position: absolute;
